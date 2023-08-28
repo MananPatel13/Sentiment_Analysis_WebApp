@@ -1,0 +1,43 @@
+accelerate==0.22.0
+# asgiref @ file:///C:/ci_311/asgiref_1676448296195/work
+certifi==2023.7.22
+charset-normalizer==3.2.0
+colorama==0.4.6
+crispy-bootstrap4==2022.1
+defusedxml==0.7.1
+# Django @ file:///C:/ci_311/django_1676469589007/work
+django-crispy-forms==2.0
+djangorestframework==3.14.0
+filelock==3.12.2
+fsspec==2023.6.0
+httpie==3.2.2
+huggingface-hub==0.16.4
+idna==3.4
+Jinja2==3.1.2
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+mdurl==0.1.2
+mpmath==1.3.0
+multidict==6.0.4
+networkx==3.1
+numpy==1.25.2
+packaging==23.1
+psutil==5.9.5
+Pygments==2.16.1
+PySocks==1.7.1
+pytz==2023.3
+PyYAML==6.0.1
+regex==2023.8.8
+requests==2.31.0
+requests-toolbelt==1.0.0
+rich==13.5.2
+safetensors==0.3.3
+# sqlparse @ file:///C:/b/abs_88361ub_qu/croot/sqlparse_1690904577514/work
+sympy==1.12
+tokenizers==0.13.3
+torch==2.0.1
+tqdm==4.66.1
+transformers==4.32.0
+typing_extensions==4.7.1
+# tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.0.4
